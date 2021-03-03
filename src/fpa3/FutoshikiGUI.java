@@ -34,7 +34,7 @@ import javafx.scene.text.TextAlignment;
 
 /**
  *
- * @author tb352
+ * @author
  */
 public class FutoshikiGUI extends Application {
     private Text problems = new Text(400,400,"");

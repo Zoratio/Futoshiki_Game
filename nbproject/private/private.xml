@@ -2,6 +2,18 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/D:/University/University%20work/Year%201/Futoshiki/src/fpa3/Constraint.java</file>
+            <file>file:/D:/University/University%20work/Year%201/Futoshiki/src/fpa3/Futoshiki.java</file>
+            <file>file:/D:/University/University%20work/Year%201/Futoshiki/src/fpa3/Command.java</file>
+            <file>file:/D:/University/University%20work/Year%201/Futoshiki/src/fpa3/CommandWord.java</file>
+            <file>file:/D:/University/University%20work/Year%201/Futoshiki/src/fpa3/FutoshikiSquare.java</file>
+            <file>file:/D:/University/University%20work/Year%201/Futoshiki/src/fpa3/Parser.java</file>
+            <file>file:/D:/University/University%20work/Year%201/Futoshiki/src/fpa3/FutoshikiPuzzle.java</file>
+            <file>file:/D:/University/University%20work/Year%201/Futoshiki/src/fpa3/FutoshikiGUI.java</file>
+            <file>file:/D:/University/University%20work/Year%201/Futoshiki/src/fpa3/EmptyConstraint.java</file>
+            <file>file:/D:/University/University%20work/Year%201/Futoshiki/src/fpa3/LessThan.java</file>
+            <file>file:/D:/University/University%20work/Year%201/Futoshiki/src/fpa3/MoreThan.java</file>
+        </group>
     </open-files>
 </project-private>

@@ -7,7 +7,7 @@ package fpa3;
 
 /**
  *
- * @author tb352
+ * @author 
  */
 public class Futoshiki {
     

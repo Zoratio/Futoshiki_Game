@@ -8,7 +8,7 @@ package fpa3;
 
 
 /**
- * @author ianw
+ * 
  * A simple enumeration to represent the possible commands that can be given to the 
  * Futoshiki game.  Note that the enumeration words all start with different characters.
  */
